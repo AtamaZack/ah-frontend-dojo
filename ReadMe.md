@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/AtamaZack/ah-frontend-dojo.svg?branch=task%2F%23165273520-travis-ci-setup)](https://travis-ci.com/AtamaZack/ah-frontend-dojo)
+
 Authors Haven
 =======
 Author's haven is a Social platform for the creative at heart. This platform allows registered members to write and publish articles, read articles, rate articles, follow users, like and/or dislike articles, and bookmark articles. Non-registered users can view articles. A user can register using email address, or using their preferred social media account.
