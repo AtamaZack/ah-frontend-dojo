@@ -1,0 +1,10 @@
+# node js dependencies
+node_modules/
+coverage/
+# lock dependence
+package-lock.json
+yarn.json
+yarn.lock
+
+# distribution directories
+dist/
